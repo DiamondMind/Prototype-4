@@ -8,7 +8,7 @@ public class SpawnManagerX : MonoBehaviour
     public float enemySpeed = 5.0f; // Initial enemy speed
     public GameObject powerupPrefab;
 
-    private float spawnRangeX = 5;
+    private float spawnRangeX = 15;
     private float spawnZMin = 15; // set min spawn Z
     private float spawnZMax = 25; // set max spawn Z
 
